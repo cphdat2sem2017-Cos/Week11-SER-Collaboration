@@ -19,33 +19,11 @@ Student from both SEM & DAT are expected to contribute with team spirit at all 3
 * Discuss the customer journey from each the customer and Johannes Fog’s perspectives and how to meet/ merge different needs.
 
 ### Tuesday 25 April
-Activities will be available below from 8.00
 
-* Together the SEM-DAT team makes a lengthy discussion of customer’s profiles. Discuss:
-    - Various segments
-    - Segments/ consumer behavior (cultural, social, personal, psychological)
-    - Buying behavior
-* Discuss Johannes Fog as a business:
-    - Their current service delivery when supporting carport building. 
-    - Competitor’s service offerings vs. uniqueness of this Fog service
-    - Price sensitivity
-    - Level of customer involvement – option to offer different level choices
-    - How to keep potential new customers loyal to Johannes Fog
-* Consider upselling potentials in connection with the carport computer system.
-* Based on above discussions : 
-    - Make a list of which information is on need to and want to know of customers
-    - customer value
-    - customer expectations
-    - system obstacles
-* Decide on the questions needed to be asked to the carport building respondent and the format the DAT students need the information to be reported back to them.
+
 
 ### Thursday 27 April
-* Software developers explain to service students the legal/ ethical aspects of such a carport building system.
-* Service students present and deliver the chosen file format of their findings to the software developers.
-* SEM-DAT students discuss the interpretation of the new collected data and discuss obstacles.
-* Together SEM-DAT students generate a list of minimum 5 ideas for solutions to include based on the customer research.
-* Together SEM-DAT students produce updated user stories and new improved customer journey (service students document the improved customer journey with a copy to the DAT students).
-* Software developers estimate the time in work hours what such a carport system will take to develop as well as the implementation time in hours and argue why. 
+
 
 
 # Assignment DAT / COS
