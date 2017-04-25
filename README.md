@@ -19,7 +19,25 @@ Student from both SEM & DAT are expected to contribute with team spirit at all 3
 * Discuss the customer journey from each the customer and Johannes Fog’s perspectives and how to meet/ merge different needs.
 
 ### Tuesday 25 April
+Activities will be available below from 8.00
 
+* Together the SEM-DAT team makes a lengthy discussion of customer’s profiles. Discuss:
+    - Various segments
+    - Segments/ consumer behavior (cultural, social, personal, psychological)
+    - Buying behavior
+* Discuss Johannes Fog as a business:
+    - Their current service delivery when supporting carport building. 
+    - Competitor’s service offerings vs. uniqueness of this Fog service
+    - Price sensitivity
+    - Level of customer involvement – option to offer different level choices
+    - How to keep potential new customers loyal to Johannes Fog
+* Consider upselling potentials in connection with the carport computer system.
+* Based on above discussions : 
+    - Make a list of which information is on need to and want to know of customers
+    - customer value
+    - customer expectations
+    - system obstacles
+* Decide on the questions needed to be asked to the carport building respondent and the format the DAT students need the information to be reported back to them.
 
 
 ### Thursday 27 April
@@ -44,7 +62,18 @@ particular detail the elements of agreement and disagreement with the SEM/SER st
 
 ## Tuesday, April 25, 2017
 
-To appear
+On the basis of meetings with SEM/SER Tuesday, please make a summary of your meetings with SEM/SER students focusing on:
+
+* Segments/consumer behavior (cultural, social, personal, psychological)
+* Buying behavior
+* Johannes Fog as a business:
+    - Their current service delivery when supporting carport building.
+    - <s>Competitor's service offerings vs. Uniqueness of this fog service</s>
+    - <s>Price sensitivity</s> (these two items will be discussed, but do not need to be documented in the hand-in.)
+    - Level of customer involvement - option to offer different level choices
+    - How to keep potential new customers loyal to Johannes Fog
+    - Upselling potentials in connection with the carport computer system.
+* A list of questions needed to be asked to the carport building respondent by the SEM/SER students and the format the COS/DAT students need the information to be reported back to them.
 
 ## Wednesday, April 26, 2017
 
