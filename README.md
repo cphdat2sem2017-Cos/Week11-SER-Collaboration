@@ -77,7 +77,9 @@ On the basis of meetings with SEM/SER Tuesday, please make a summary of your mee
 
 ## Wednesday, April 26, 2017
 
-To appear
+On the basis of the lecturer's presentation, please describe the legal and security issues that you have identified in your study. Including a statement in accordance with the FOG case for the Personal Data Act's provisions on the collection of personal data, as well as a statement of the Marketing Act's provisions on the dispatch of "marketing mail".
+
+Prepare a presentation for SEM/SER.
 
 ## Thursday, April 27, 2017
 
