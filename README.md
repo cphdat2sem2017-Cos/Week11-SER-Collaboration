@@ -4,8 +4,6 @@ Monday 24 April | Tuesday 25 April | Wednesday 26 April |Thursday 27 April | Fri
 12.00-12.30 Kick Off (2.62) | Further discussions according to plan COS/SEM | 8:30 - in room 2.62 <br>DAT a & b Security issues presented (expected to last one hour), groups investigate these issues. | Presentation of findings in groups COS/SEM | Work on assignment
 SER/SEM + DAT/COS First meatings according to plan | Further discussions according to plan DAT/SER | 12:30, room 2.62 <br>COS Security issues presented, groups investigate these issues. |Presentation of findings in groups DAT/SER| Work on assignment
 
-## [Group List](Groups.md)
-
 ## SER/SEM-DAT/COS Discussion subjects for the 3 sessions together
 
 Student from both SEM & DAT are expected to contribute with team spirit at all 3 sessions:
@@ -39,9 +37,13 @@ Activities will be available below from 8.00
     - system obstacles
 * Decide on the questions needed to be asked to the carport building respondent and the format the DAT students need the information to be reported back to them.
 
-
 ### Thursday 27 April
-
+* Software developers explain to service students the legal/ ethical aspects of such a carport building system.
+* Service students present and deliver the chosen file format of their findings to the software developers.
+* SEM-DAT students discuss the interpretation of the new collected data and discuss obstacles.
+* Together SEM-DAT students generate a list of minimum 5 ideas for solutions to include based on the customer research.
+* Together SEM-DAT students produce updated user stories and new improved customer journey (service students document the improved customer journey with a copy to the DAT students).
+* Software developers estimate the time in work hours what such a carport system will take to develop as well as the implementation time in hours and argue why. 
 
 
 # Assignment DAT / COS
@@ -76,11 +78,11 @@ On the basis of meetings with SEM/SER Tuesday, please make a summary of your mee
 * A list of questions needed to be asked to the carport building respondent by the SEM/SER students and the format the COS/DAT students need the information to be reported back to them.
 
 ## Wednesday, April 26, 2017
-
 On the basis of the lecturer's presentation, please describe the legal and security issues that you have identified in your study. Including a statement in accordance with the FOG case for the Personal Data Act's provisions on the collection of personal data, as well as a statement of the Marketing Act's provisions on the dispatch of "marketing mail".
 
 Prepare a presentation for SEM/SER.
 
 ## Thursday, April 27, 2017
+Reflect your purpose and goals for the IT solution in relation to an increased understanding of the user's experience of the solution and FOG's business opportunities.
 
-To appear
+Revise your User Stories and view the Revise Product Backlog (include the revised stories in the pdf to be handed in).
